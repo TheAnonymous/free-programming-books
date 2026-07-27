@@ -24,3 +24,9 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 - Edit
 - Send a PR
 - Who might have guessed? ;)
+
+<!-- github-cicd-policy -->
+## Local validation policy
+
+This repository does not use GitHub Actions or any other GitHub-hosted CI/CD. Run tests, linters, builds, and all other checks locally before merging. A documented successful local test run is sufficient for review and merge.
+<!-- /github-cicd-policy -->
